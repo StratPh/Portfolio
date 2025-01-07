@@ -101,7 +101,7 @@ section.resume-section {
 @media (min-width: 992px) {
   section.resume-section {
     padding-top: 3rem !important;
-    padding-bottom: 3rem !important; } }
+    padding-bottom: 20rem !important; } }
 
 .bg-primary {
   background-color: #548af7 !important; }
@@ -155,6 +155,12 @@ section.resume-section {
   padding: 0 5%; /* Add some space around the carousel */
   height: 50vh; /* Fix the height for all slides */
 }
+
+.text-primary{
+  font-weight: bold !important;
+}
+
+
 
 .project-section {
   margin-bottom: 50px;
